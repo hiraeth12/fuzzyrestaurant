@@ -26,5 +26,22 @@ Using fuzzy logic, the system assesses customer satisfaction based on various pa
 
 - Outputs a satisfaction score for decision-making.
 
+## Installation
 
-          
+1. Ensure you have git installed, and then copy this
+```bash
+git clone https://github.com/hiraeth12/fuzzyrestaurant.git
+```
+2. Open CMD then paste
+
+3. Run the Jupyter Notebook
+
+## Output 
+
+The system generates a satisfaction score that helps in understanding customer feedback more effectively.
+
+### Credit
+- Sahrul Ridho Firdaus 
+- Darrel Chesta Adabi 
+- Dewo Antonioly 
+- Vinsensius Jonathan Fajarai 
